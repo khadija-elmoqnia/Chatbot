@@ -1,0 +1,20 @@
+#rendez vous
+- docteurs:
+  - nom: "Dr. A"
+    numero_telephone: "+1111111111"
+    dates_disponibles:
+      - "10-11-2023"
+      - "12-11-2023"
+      - "15-11-2023"
+  - nom: "Dr. B"
+    numero_telephone: "+2222222222"
+    dates_disponibles:
+      - "11-11-2023"
+      - "14-11-2023"
+      - "17-11-2023"
+  - nom: "Dr. C"
+    numero_telephone: "+3333333333"
+    dates_disponibles:
+      - "13-11-2023"
+      - "16-11-2023"
+      - "19-11-2023
